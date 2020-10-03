@@ -2,4 +2,4 @@
 
 Hey there, I'm Kamal. Currently working with Java and JavaScript, focusing on Vue.js and Spring ecosystem.
 
-I like to learn and tinker 
+I like to learn and tinker  
